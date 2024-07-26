@@ -26,6 +26,6 @@
    </div><br> 
 <div align ="center">  
 <img align="left" height="180em" src="https://github.com/Nicolasap1/Nicolasap1/blob/main/st-trina-elden-ring.gif"/>
-<img align="center" height="180em" src="https://github.com/Nicolasap1/Nicolasap1/blob/main/st-trina-elden-ring.gif"/>
+<img align="center" height="180em" src="https://github.com/Nicolasap1/Nicolasap1/blob/main/elden-ring-marika.gif"/>
 <img align="right" height="180em" src="https://github.com/Nicolasap1/Nicolasap1/blob/main/st-trina-elden-ring.gif"/>
 </div>
