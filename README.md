@@ -15,7 +15,6 @@
 
 
 <div  align="center"> 
-  <img align="left" height="180em" src="https://github.com/Nicolasap1/Nicolasap1/blob/main/st-trina-elden-ring.gif"/>
     <h1 align="center">Tecnologias</h1>
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -25,4 +24,4 @@
     <img align="center" height="30" width="40" alt="django-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
     <img align="center" height="30" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"> 
    </div>
-
+<img align="left" height="180em" src="https://github.com/Nicolasap1/Nicolasap1/blob/main/st-trina-elden-ring.gif"/>
