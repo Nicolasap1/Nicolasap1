@@ -1,6 +1,6 @@
 ## Olá sou Nicolas 👋
 
-- 🔭 Em busca de Conhecimento e Experiência
+- 🔭 Em busca de Conhecimento
 - 🌱 Estudando Programação
 - 📫 Contate-me no e-mail: nicolassan2015@gmail.com
 
