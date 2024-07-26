@@ -23,5 +23,9 @@
     <img align="center" height="30" width="40" alt="postgres-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" height="30" width="40" alt="django-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
     <img align="center" height="30" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"> 
-   </div>
+   </div><br> 
+<div align ="center">  
 <img align="left" height="180em" src="https://github.com/Nicolasap1/Nicolasap1/blob/main/st-trina-elden-ring.gif"/>
+<img align="center" height="180em" src="https://github.com/Nicolasap1/Nicolasap1/blob/main/st-trina-elden-ring.gif"/>
+<img align="right" height="180em" src="https://github.com/Nicolasap1/Nicolasap1/blob/main/st-trina-elden-ring.gif"/>
+</div>
